@@ -2,16 +2,15 @@
 
 ### App Description
 
-`TODO://` Angela's pre-work for Introduce yourself app. 
+Angela's pre-work for Introduce yourself app. 
 
 ### App Walk-though
+[Angela Pre-work](https://user-images.githubusercontent.com/44353878/211182085-bd0aa0b7-8a8c-4f00-9c18-5447e557133f.gif)
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.![Angela Pre-work](https://user-images.githubusercontent.com/44353878/211182063-edcc9c3c-ccc8-4f24-a117-87f68ae8cc2e.gif)
 
+<!-- <img src="https://user-images.githubusercontent.com/44353878/211182085-bd0aa0b7-8a8c-4f00-9c18-5447e557133f.gif
+" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
-
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required Features
 
