@@ -8,8 +8,7 @@ Angela's pre-work for Introduce yourself app.
 ![Angela Pre-work](https://user-images.githubusercontent.com/44353878/211182107-f47a9b82-76fc-49f0-a2be-d402b2ae24ea.gif)
 
 
-<!-- <img src="https://user-images.githubusercontent.com/44353878/211182085-bd0aa0b7-8a8c-4f00-9c18-5447e557133f.gif
-" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<img src="https://user-images.githubusercontent.com/44353878/211182085-bd0aa0b7-8a8c-4f00-9c18-5447e557133f.gif" width=200><br> 
 
 
 ### Required Features
