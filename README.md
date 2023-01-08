@@ -7,7 +7,7 @@ Angela's pre-work for Introduce yourself app.
 ### App Walk-though
 
 
-<img src="[YOUR_GIF_URL_HERE](https://user-images.githubusercontent.com/44353878/211182085-bd0aa0b7-8a8c-4f00-9c18-5447e557133f.gif)" width=200><br>
+<img src="https://user-images.githubusercontent.com/44353878/211182085-bd0aa0b7-8a8c-4f00-9c18-5447e557133f.gif" width=200><br>
 
 
 
